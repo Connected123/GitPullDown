@@ -53,4 +53,8 @@ public class MainActivity extends AppCompatActivity {
     {
         int i=1;
     }
+    private void Pulldown1()
+    {
+        int i=2;
+    }
 }
